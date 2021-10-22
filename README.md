@@ -1,10 +1,10 @@
-<img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
+![Github banner](https://user-images.githubusercontent.com/89615372/138376893-7a68f884-1fb7-401a-b26f-320422bf1005.png)
 
 ## Hey, Guys 👋... 
 
 <p align="center">
   <samp>
-    I'm Raul Iqbal Front-End Developer with UI Design skills (Front-end designer). I'm bases in Bekasi, Indonesian.
+    I'm Raul Iqbal Front-End Developer with UI Design skills (Front-end designer). I'm based in Bekasi, Indonesian.
   </samp>
 </p>
 
