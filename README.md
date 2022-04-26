@@ -1,51 +1,37 @@
-![Github banner](https://user-images.githubusercontent.com/89615372/138376893-7a68f884-1fb7-401a-b26f-320422bf1005.png)
+Hi 👋 My name is Muhamad Raul Iqbal
+===================================
 
-## Hey, Guys 👋... 
+Front-end Developer and UI Designer
+-----------------------------------
 
-<p align="center">
-  <samp>
-    I'm Raul Iqbal Front-End Developer with UI Design skills (Front-end designer). I'm based in Bekasi, Indonesian.
-  </samp>
+I am Raul Iqbal Front-End Developer and UI Design, I studied website developer for 1 year
+
+* 🌍  I'm based in Bekasi, Indonesian
+* 🖥️  See my portfolio at [My website](http://rauliqbal.github.io)
+* ✉️  You can contact me at [muhamadrauliqbal.13@gmail.com](mailto:muhamadrauliqbal.13@gmail.com)
+* 🧠  I'm learning React JS and Tailwind css
+* 🤝  I'm open to collaborating on Instagram @raul.iqbl\_
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-<br />
-<br />
 
-## Get in touch 📧...
+### Socials
 
-<a title="Instagram" href="https://instagram.com/raul.iqbl_">
-  <img align="left" alt="rauliqbal instagram " width="32px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/instagram.jpg" />
-</a>
-<a title="Linkedin" href="https://www.linkedin.com/in/muhamad-raul-iqbal-393696220/">
-  <img align="left" alt="rauliqbal Linkdin" width="32px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/linkedin.png" />
-</a>
+<p align="left"> <a href="https://www.dribbble.com/Rauliqbal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/dribbble.svg" width="32" height="32" /></a> <a href="https://www.github.com/Rauliqbal" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/raul.iqbl_/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/muhamad-raul-iqbal/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
-<br />
-<br />
+### Badges
 
-## Languages and tools 🛠...
+<b>My GitHub Stats</b>
 
-<!-- languages -->
-<a title="html5" href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-  <img align="left" alt="languages" width="32px" src="https://img.icons8.com/color/240/000000/html-5.png" />
-</a>
-<a title="css3" href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-  <img align="left" alt="languages" width="32px" src="https://img.icons8.com/color/240/000000/css3.png" />
-</a>
-<a title="Javascript" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-  <img align="left" alt="languages" width="32px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</a>
-<a title="sass" href="https://sass-lang.com/">
-  <img align="left" alt="languages" width="32px" src="https://img.icons8.com/color/240/000000/sass.png" />
-</a>
-
-<!--  tools-->
-<a title="Visual Studio Code" href="https://code.visualstudio.com/">
-  <img align="left" alt="tools" width="32px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</a>
-<a title="figma" href="https://www.figma.com/@rauliqbal">
-  <img align="left" alt="languages" width="32px" src="https://raw.githubusercontent.com/wahidari/wahidari/master/icons/figma.png" />
-</a>
-<a title="github" href="https://github.com/Rauliqbal">
-  <img align="left" alt="languages" width="32px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png" />
-</a>
+<a href="http://www.github.com/Rauliqbal"><img src="https://github-readme-stats.vercel.app/api?username=Rauliqbal&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Rauliqbal's GitHub stats" /></a>
