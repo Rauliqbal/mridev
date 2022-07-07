@@ -10,7 +10,7 @@ I am Raul Iqbal Front-End Developer and UI Design, I studied website developer f
 * 🌍  I'm based in Bekasi, Indonesian
 * 🖥️  See my portfolio at [My website](http://rauliqbal.github.io)
 * ✉️  You can contact me at [muhamadrauliqbal.13@gmail.com](mailto:muhamadrauliqbal.13@gmail.com)
-* 🧠  I'm learning React JS and Tailwind css
+* 🧠  I'm learning Vue JS and Tailwind css
 * 🤝  I'm open to collaborating on Instagram @raul.iqbl\_
 
 ### Skills
