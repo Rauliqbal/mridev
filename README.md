@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raul Iqbal</h1>
+<h1 align="center">Hi 👋, I'm Muhamad Raul Iqbal</h1>
 
 <h3 align="center">A passionate Front-End Developer (VueJS), I studied website developer for 1+ years</h3>
 
