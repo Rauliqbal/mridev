@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rauliqbal&label=Profile%20views&color=0e75b6&style=flat" alt="rauliqbal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rauliqbal" alt="rauliqbal" /></a> </p>
-
 - 🌱 I’m currently learning **Vue JS, Nuxt JS, Node JS, Mongo DB**
 
 - 👨‍💻 All of my projects are available at [https://rauliqbal.vercel.app/#/](https://rauliqbal.vercel.app/#/)
