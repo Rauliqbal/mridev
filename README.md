@@ -6,11 +6,11 @@
 
 - 🌍 I'm based in Bekasi, Indonesian
 
-- 🌱 I’m currently learning **Vue JS, Nuxt JS, Node JS, Mongo DB**
+- 🌱 I’m currently learning **Vue JS, React JS, Nuxt JS, Node JS**
 
 - 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/raul.iqbl_/)
 
-- 🖥️ See my portfolio at [My Website](https://rauliqbal.vercel.app)
+- 🖥️ See my portfolio at [My Website](https://rauliqbal.my.id)
 
 - 💬 Ask me about **Front-End Developer**
 
