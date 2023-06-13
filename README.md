@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Muhamad Raul Iqbal</h1>
 
-<h3 align="center">A passionate Front-End Developer (VueJS), I studied website developer for 1+ years</h3>
+<h3 align="center">A passionate Front-End Developer, I studied website developer for 1+ years</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rauliqbal&label=Profile%20views&color=0e75b6&style=flat" alt="rauliqbal" /> </p>
 
 - 🌍 I'm based in Bekasi, Indonesian
 
-- 🌱 I’m currently learning **Vue JS, React JS, Nuxt JS, Node JS**
+- 🌱 I’m currently learning **Vue JS, React JS, Nuxt JS, Next JS, Node JS**
 
 - 👯 I’m looking to collaborate on [Instagram](https://www.instagram.com/raul.iqbl_/)
 
