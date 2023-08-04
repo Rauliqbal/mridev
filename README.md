@@ -1,3 +1,4 @@
+<div align="center"><img src="./banner.svg" /></div>
 <h1 align="center">Hi 👋, I'm Muhamad Raul Iqbal</h1>
 
 <h3 align="center">A passionate Front-End Developer, I studied website developer for 1+ years</h3>
