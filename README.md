@@ -1,10 +1,14 @@
 <div align="center"><img src="./banner.svg" /></div>
 <h1 align="center">Hi 👋, I'm Muhamad Raul Iqbal</h1>
-
 <h2 align="center">A passionate Front-End Developer, I studied website developer for 1+ years</h2>
 
 # 💫 About Me:
-🔭 I’m currently working as Front-End Developer<br>👯 I’m looking to collaborate on<br>🖥️ See my portfolio website<br>🌱 I’m currently learning Vue JS, React JS , Node JS, Mongo DB<br>💬 Ask me about Front-End and UI Designer<br>⚡ Fun fact : im use VS Code for Coding
+- 🔭 I’m currently working as Front-End Developer
+- 👯 I’m looking to collaborate on
+- 🖥️ See my portfolio website
+- 🌱 I’m currently learning Vue JS, React JS , Node JS, Mongo DB
+- 💬 Ask me about Front-End and UI Designer
+- ⚡ Fun fact : im use VS Code for Coding
 
 
 ## 🌐 Socials:
@@ -20,11 +24,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rauliqbal&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rauliqbal&icon=1&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rauliqbal&label=Profile%20Views&color=6&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/rauliqbal) 
