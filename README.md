@@ -1,6 +1,7 @@
 <div align="center"><img src="./banner.svg" /></div>
 <h1 align="center">Hi 👋, I'm Muhamad Raul Iqbal</h1>
 <h2 align="center">A passionate Front-End Developer, I studied website developer for 1+ years</h2>
+[![](https://visitcount.itsvg.in/api?id=rauliqbal&label=Profile%20Views&color=6&icon=1&pretty=false)](https://visitcount.itsvg.in)
 
 ## 💫 About Me:
 - 🔭 I’m currently working as Front-End Developer
@@ -9,7 +10,7 @@
 - 🌱 I’m currently learning Vue JS, React JS , Node JS, Mongo DB
 - 💬 Ask me about Front-End and UI Designer
 - ⚡ Fun fact : im use VS Code for Coding
-[![](https://visitcount.itsvg.in/api?id=rauliqbal&label=Profile%20Views&color=6&icon=1&pretty=false)](https://visitcount.itsvg.in)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/raul.iqbl_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhamad-raul-iqbal) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@rauliqbal) 
