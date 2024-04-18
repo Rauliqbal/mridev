@@ -8,7 +8,7 @@
 - 🖥️ See my portfolio website
 - 🌱 I’m currently learning Vue JS, React JS , Node JS, Mongo DB
 - 💬 Ask me about Front-End and UI Designer
-- ⚡ Fun fact : im use VS Code for Coding
+- ⚡ Fun fact : Im use Linux for daily use
 
 
 ## 🌐 Socials:
